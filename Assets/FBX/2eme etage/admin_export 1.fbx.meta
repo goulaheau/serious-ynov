@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: 567ca89acd3a77b478a1246e1152975b
+timeCreated: 1526978205
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: armoire_admin:armoire_admin
+    100004: bureau_admin12
+    100006: bureau_admin_seul1:bureau_admin_seul
+    100008: bureau_admin_seul2:bureau_admin_seul
+    100010: bureau_admin_seul:bureau_admin_seul
+    100012: bureau_admin_seul:bureau_admin_seul 1
+    100014: bureau_admin_seul:transform1
+    100016: bureau_admin_seul:transform2
+    100018: bureau_admin_seul:transform3
+    100020: bureau_admin_seul_ADMIN
+    100022: canape_bureau_directeur_admin:canape
+    100024: canape_bureau_directeur_admin:canape_bureau_directeur_admin
+    100026: canape_bureau_directeur_admin:pieds
+    100028: chaise_admin
+    100030: chaise_attente_admin3:dossier
+    100032: chaise_attente_admin3:pieds
+    100034: chaise_attente_admin4
+    100036: chaise_attente_admin_2:chaise_attente_admin_2
+    100038: chaise_attente_bureau
+    100040: chaise_attente_bureau_admin9:pieds
+    100042: chaise_attente_bureau_admin:dossier
+    100044: commode_admin:commode_admin
+    100046: mac_admin
+    100048: porte_document_admin
+    100050: porte_documents_attente_admin:roulettes
+    100052: porte_documents_attente_admin:support
+    100054: porte_mag_ADMIN
+    100056: table_basse_admin:table_basse_directeur
+    100058: tableaux_admin:cadres
+    100060: tableaux_admin:tableaux_admin
+    100062: tableaux_admin:toiles
+    100064: telephone_admin
+    400000: //RootNode
+    400002: armoire_admin:armoire_admin
+    400004: bureau_admin12
+    400006: bureau_admin_seul1:bureau_admin_seul
+    400008: bureau_admin_seul2:bureau_admin_seul
+    400010: bureau_admin_seul:bureau_admin_seul
+    400012: bureau_admin_seul:bureau_admin_seul 1
+    400014: bureau_admin_seul:transform1
+    400016: bureau_admin_seul:transform2
+    400018: bureau_admin_seul:transform3
+    400020: bureau_admin_seul_ADMIN
+    400022: canape_bureau_directeur_admin:canape
+    400024: canape_bureau_directeur_admin:canape_bureau_directeur_admin
+    400026: canape_bureau_directeur_admin:pieds
+    400028: chaise_admin
+    400030: chaise_attente_admin3:dossier
+    400032: chaise_attente_admin3:pieds
+    400034: chaise_attente_admin4
+    400036: chaise_attente_admin_2:chaise_attente_admin_2
+    400038: chaise_attente_bureau
+    400040: chaise_attente_bureau_admin9:pieds
+    400042: chaise_attente_bureau_admin:dossier
+    400044: commode_admin:commode_admin
+    400046: mac_admin
+    400048: porte_document_admin
+    400050: porte_documents_attente_admin:roulettes
+    400052: porte_documents_attente_admin:support
+    400054: porte_mag_ADMIN
+    400056: table_basse_admin:table_basse_directeur
+    400058: tableaux_admin:cadres
+    400060: tableaux_admin:tableaux_admin
+    400062: tableaux_admin:toiles
+    400064: telephone_admin
+    2100000: lambert14
+    2100002: chaise_attente_admin3_chaise_attente_admin_material
+    2100004: chaise_attente_admin2_chaise_attente_admin_material
+    2100006: chaise_attente_admin1_chaise_attente_admin_material
+    2100008: chaise_attente_admin_chaise_attente_admin_material
+    2100010: chaise_attente_admin_2_chaise_attente_admin_2_material
+    2100012: chaise_attente_admin_3_chaise_attente_admin_2_material
+    2100014: porte_documents_attente_admin_porte_documents_attente_admin_material
+    2100016: porte_documents_attente_admin1_porte_documents_attente_admin_material
+    2100018: chaise_attente_bureau_admin9_chaise_attente_bureau_admin_material
+    2100020: chaise_attente_bureau_admin8_chaise_attente_bureau_admin_material
+    2100022: chaise_attente_bureau_admin7_chaise_attente_bureau_admin_material
+    2100024: chaise_attente_bureau_admin6_chaise_attente_bureau_admin_material
+    2100026: chaise_attente_bureau_admin5_chaise_attente_bureau_admin_material
+    2100028: chaise_attente_bureau_admin4_chaise_attente_bureau_admin_material
+    2100030: chaise_attente_bureau_admin3_chaise_attente_bureau_admin_material
+    2100032: chaise_attente_bureau_admin2_chaise_attente_bureau_admin_material
+    2100034: chaise_attente_bureau_admin1_chaise_attente_bureau_admin_material
+    2100036: chaise_attente_bureau_admin_chaise_attente_bureau_admin_material
+    2100038: tableaux_admin_tableaux_admin_material
+    2100040: table_basse_admin_table_basse_directeur_material
+    2100042: table_basse_admin1_table_basse_directeur_material
+    2100044: table_basse_admin2_table_basse_directeur_material
+    2100046: bureau_admin_seul_bureau_admin_seul_material
+    2100048: bureau_admin_seul1_bureau_admin_seul_material
+    2100050: bureau_admin_seul2_bureau_admin_seul_material
+    2100052: commode_admin_commode_admin_material
+    2100054: commode_admin1_commode_admin_material
+    2100056: commode_admin2_commode_admin_material
+    2100058: commode_admin3_commode_admin_material
+    2100060: commode_admin4_commode_admin_material
+    2100062: commode_admin5_commode_admin_material
+    2100064: bureau_admin6_bureau_admin_material
+    2100066: bureau_admin_bureau_admin_material
+    2100068: bureau_admin1_bureau_admin_material
+    2100070: bureau_admin4_bureau_admin_material
+    2100072: bureau_admin5_bureau_admin_material
+    2100074: bureau_admin7_bureau_admin_material
+    2100076: bureau_admin8_bureau_admin_material
+    2100078: bureau_admin9_bureau_admin_material
+    2300000: armoire_admin:armoire_admin
+    2300002: bureau_admin12
+    2300004: bureau_admin_seul:bureau_admin_seul
+    2300006: canape_bureau_directeur_admin:canape
+    2300008: canape_bureau_directeur_admin:pieds
+    2300010: chaise_admin
+    2300012: chaise_attente_admin3:dossier
+    2300014: chaise_attente_admin3:pieds
+    2300016: chaise_attente_admin_2:chaise_attente_admin_2
+    2300018: chaise_attente_bureau_admin9:pieds
+    2300020: chaise_attente_bureau_admin:dossier
+    2300022: commode_admin:commode_admin
+    2300024: mac_admin
+    2300026: porte_document_admin
+    2300028: porte_documents_attente_admin:roulettes
+    2300030: porte_documents_attente_admin:support
+    2300032: table_basse_admin:table_basse_directeur
+    2300034: tableaux_admin:cadres
+    2300036: tableaux_admin:toiles
+    2300038: telephone_admin
+    3300000: armoire_admin:armoire_admin
+    3300002: bureau_admin12
+    3300004: bureau_admin_seul:bureau_admin_seul
+    3300006: canape_bureau_directeur_admin:canape
+    3300008: canape_bureau_directeur_admin:pieds
+    3300010: chaise_admin
+    3300012: chaise_attente_admin3:dossier
+    3300014: chaise_attente_admin3:pieds
+    3300016: chaise_attente_admin_2:chaise_attente_admin_2
+    3300018: chaise_attente_bureau_admin9:pieds
+    3300020: chaise_attente_bureau_admin:dossier
+    3300022: commode_admin:commode_admin
+    3300024: mac_admin
+    3300026: porte_document_admin
+    3300028: porte_documents_attente_admin:roulettes
+    3300030: porte_documents_attente_admin:support
+    3300032: table_basse_admin:table_basse_directeur
+    3300034: tableaux_admin:cadres
+    3300036: tableaux_admin:toiles
+    3300038: telephone_admin
+    4300000: chaise_attente_admin3:dossier
+    4300002: chaise_attente_admin3:pieds
+    4300004: chaise_attente_admin_2:chaise_attente_admin_2
+    4300006: porte_documents_attente_admin:support
+    4300008: porte_documents_attente_admin:roulettes
+    4300010: chaise_attente_bureau_admin9:pieds
+    4300012: chaise_attente_bureau_admin:dossier
+    4300014: canape_bureau_directeur_admin:canape
+    4300016: canape_bureau_directeur_admin:pieds
+    4300018: tableaux_admin:cadres
+    4300020: tableaux_admin:toiles
+    4300022: table_basse_admin:table_basse_directeur
+    4300024: bureau_admin_seul:bureau_admin_seul
+    4300026: commode_admin:commode_admin
+    4300028: armoire_admin:armoire_admin
+    4300030: porte_document_admin
+    4300032: telephone_admin
+    4300034: mac_admin
+    4300036: chaise_admin
+    4300038: bureau_admin12
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

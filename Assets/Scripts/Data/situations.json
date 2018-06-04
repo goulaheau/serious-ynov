@@ -1,0 +1,314 @@
+{
+  "situations": [
+    {
+      "description": "Bienvenue à Ynov ! Ce jeu va vous mettre dans des situations différentes, vous devrez faire un choix parmis 3 choix possibles, le but étant de finir le jeu avec le moins d'avertissement possible car au-delà de 3 avertissements, vous êtes exclus de l'école.",
+      "position": {
+        "x": 18.5,
+        "y": 1,
+        "z": -5.75
+      },
+      "rotation": {
+        "x": 0,
+        "y": -90,
+        "z": 0
+      },
+      "choices": [
+        {
+          "description": "Ok j'ai compris.",
+          "consequence": {
+            "description": "C'est parti !",
+            "warning": false
+          }
+        }
+      ]
+    },
+    {
+      "description": "Je suis en retard, j'arrive dans le hall d'entrée, que fais-je ?",
+      "position": {
+        "x": 18.5,
+        "y": 1,
+        "z": -5.75
+      },
+      "rotation": {
+        "x": 0,
+        "y": -90,
+        "z": 0
+      },
+      "choices": [
+        {
+          "description": "Je vais voir Sharon pour prendre un billet de retard.",
+          "consequence": {
+            "description": "GG !",
+            "warning": false
+          }
+        },
+        {
+          "description": "J'esquive et je vais direct en cours.",
+          "consequence": {
+            "description": "Bien tenté cependant Claire est à l'entrée et vous oblige à prendre un billet de retard.",
+            "warning": false
+          }
+        },
+        {
+          "description": "Foutu pour foutu je descends boire un café.",
+          "consequence": {
+            "description": "Que faites-vous en salle de pause à l'heure des cours ? Avertissement !!!",
+            "warning": true
+          }
+        }
+      ]
+    },
+    {
+      "description": "Je suis devant le bureau de Sharon pour récupérer un billet de retard, que fais-je ?",
+      "position": {
+        "x": 13.5,
+        "y": 1,
+        "z": 18
+      },
+      "rotation": {
+        "x": 0,
+        "y": -90,
+        "z": 0
+      },
+      "choices": [
+        {
+          "description": "Je lui demande poliment d'avoir un billet de retard en expliquant le motif.",
+          "consequence": {
+            "description": "GG !",
+            "warning": false
+          }
+        },
+        {
+          "description": "Je récupère un billet pendant qu'elle a le dos tourné.",
+          "consequence": {
+            "description": "Hep mais qu'est-ce que vous faites ?! Attention, je vous ai à l'oeil !",
+            "warning": false
+          }
+        },
+        {
+          "description": "Vas-y envoie un billet je suis pas d'humeur.",
+          "consequence": {
+            "description": "Avertissement !!!",
+            "warning": true
+          }
+        }
+      ]
+    },
+    {
+      "description": "J'arrive en cours avec un billet de retard, que fais-je ?",
+      "position": {
+        "x": 15,
+        "y": 1,
+        "z": -15
+      },
+      "rotation": {
+        "x": 0,
+        "y": 220,
+        "z": 0
+      },
+      "choices": [
+        {
+          "description": "Je donne le billet de retard à mon professeur et je vais m'asseoir discrètement.",
+          "consequence": {
+            "description": "GG !",
+            "warning": false
+          }
+        },
+        {
+          "description": "Je m'installe directement dans le fond de la classe.",
+          "consequence": {
+            "description": "Hep toi là, où est ton billet de retard ?",
+            "warning": false
+          }
+        },
+        {
+          "description": "Tiens, prend ton billet bouffon.",
+          "consequence": {
+            "description": "Avertissement !!!",
+            "warning": true
+          }
+        }
+      ]
+    },
+    {
+      "description": "Je suis en cours et j'ai un peu faim, des gâteaux sont à portée de main dans mon sac, que fais-je ?",
+      "position": {
+        "x": 12.5,
+        "y": 1,
+        "z": -20.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "choices": [
+        {
+          "description": "YOLO je crève la dalle !",
+          "consequence": {
+            "description": "Sharon rentre dans la pièce. Avertissement !!!",
+            "warning": true
+          }
+        },
+        {
+          "description": "Je mange en cachette.",
+          "consequence": {
+            "description": "Sharon rentre dans la pièce alors que vous avez votre gâteau à la main vous le rangez immédiatement.",
+            "warning": false
+          }
+        },
+        {
+          "description": "Je m'abstiens et j'attends de descendre en salle de pause.",
+          "consequence": {
+            "description": "GG !",
+            "warning": false
+          }
+        }
+      ]
+    },
+    {
+      "description": "Je suis devant le bureau de Sharon pour emprunter une multiprise, que fais-je ?",
+      "position": {
+        "x": 13.5,
+        "y": 1,
+        "z": 18
+      },
+      "rotation": {
+        "x": 0,
+        "y": -90,
+        "z": 0
+      },
+      "choices": [
+        {
+          "description": "Je prends une mutliprise sans lui demander.",
+          "consequence": {
+            "description": "Mais qu'est-ce que vous faites ?! Vous devez me demander et signer le registre.",
+            "warning": false
+          }
+        },
+        {
+          "description": "C'est la galère ton école pourrave avec des prises au fond de la salle alors fais péter la multiprise.",
+          "consequence": {
+            "description": "Avertissement !!!",
+            "warning": true
+          }
+        },
+        {
+          "description": "Bonjour, je souhaite emprunter une multiprise et signer la décharge prévu à cet effet",
+          "consequence": {
+            "description": "GG !",
+            "warning": false
+          }
+        }
+      ]
+    },
+    {
+      "description": "Un de mes camarades de classe est absent, la feuille de présense vient à moi, que fais-je ?",
+      "position": {
+        "x": 12.5,
+        "y": 1,
+        "z": -20.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "choices": [
+        {
+          "description": "Je signe à sa place.",
+          "consequence": {
+            "description": "Le prof s'en aperçoit et en fait part à l'administration. Avertissement !!!",
+            "warning": true
+          }
+        },
+        {
+          "description": "Je la met de côté jusqu'à ce qu'il arrive à l'heure suivante pour le faire signer discretos.",
+          "consequence": {
+            "description": "Votre formateur vous voit et insiste pour que vous fassiez tourner la feuille.",
+            "warning": false
+          }
+        },
+        {
+          "description": "Je signe pour moi et la fait passer à la personne suivante.",
+          "consequence": {
+            "description": "GG !",
+            "warning": false
+          }
+        }
+      ]
+    },
+    {
+      "description": "C'est la pause et j'ai envie de fumer, que fais-je ?",
+      "position": {
+        "x": 8,
+        "y": 1,
+        "z": -7.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 180,
+        "z": 0
+      },
+      "choices": [
+        {
+          "description": "YOLO flemme de descendre, je vais sur la terrasse du 1er étage.",
+          "consequence": {
+            "description": "Vous êtes immédiatement repéré. Avertissement !!!",
+            "warning": true
+          }
+        },
+        {
+          "description": "Je vapote dans la salle car c'est que de la vapeur d'eau.",
+          "consequence": {
+            "description": "Hep vous là ! Rangez ce vapo que je ne saurai voir.",
+            "warning": false
+          }
+        },
+        {
+          "description": "Je descends au rez-de-chaussée et je songe à arrêter la clope.",
+          "consequence": {
+            "description": "GG !",
+            "warning": false
+          }
+        }
+      ]
+    },
+    {
+      "description": "Je m'appelle Jean Damien et je suis en conseil de discipline, que fais-je ?",
+      "position": {
+        "x": 21.75,
+        "y": 1,
+        "z": 22.35
+      },
+      "rotation": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "choices": [
+        {
+          "description": "J'apporte mon mémento fournis en début d'année en démontrant que je suis irréprochable, l'enfer c'est les autres.",
+          "consequence": {
+            "description": "Ah ah ah bitch please. Avertissement !!!",
+            "warning": true
+          }
+        },
+        {
+          "description": "Vas-y qu'est-ce que tu vas faire ? Viens si t'es un homme !",
+          "consequence": {
+            "description": "La violence ne résoud rien. Avertissement !!!",
+            "warning": true
+          }
+        },
+        {
+          "description": "J'acquiesce à tous les chefs d'accusion et remercie l'assemblé pour son extraordinaire enseignement.",
+          "consequence": {
+            "description": "GG, mais vous avez quand même droit à un avertissement !!!",
+            "warning": true
+          }
+        }
+      ]
+    }
+  ]
+}
